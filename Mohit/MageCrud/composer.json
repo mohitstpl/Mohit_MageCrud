@@ -1,0 +1,21 @@
+{
+    "name": "mohit/module-magecrud",
+    "description": "This module is the boiler plate extension for testing require js.",
+    "license": "proprietary",
+    "authors": [
+        {
+            "email": "mohit.arora@srmtechsol.com",
+            "name": "Mohit"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mohit\\MageCrud\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
